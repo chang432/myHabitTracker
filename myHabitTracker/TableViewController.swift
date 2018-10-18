@@ -15,7 +15,7 @@ class TableViewController: UIViewController, UITableViewDataSource, UITableViewD
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         habits.append("excersizing :DDD");
         habits.append("eating fruits everyday");
         habits.append("flossing")

@@ -1,4 +1,3 @@
 # myHabitTracker
 
-# By Peter Jung
-# and andre chang too :/
+# By Andre Chang and his assistant Peter Jung :D
